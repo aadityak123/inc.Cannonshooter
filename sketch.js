@@ -16,9 +16,6 @@ function setup() {
 
     engine = Engine.create();
     world = engine.world;
-
-    var tank1 = createSprite(200,200,50,50);
-    World.add(tank1);
     // Setup the canvas, the ground the, tanker, the shooting ball and the bubble balls.
 
 }
